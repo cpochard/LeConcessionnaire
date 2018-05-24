@@ -1,0 +1,1 @@
+EmpireMotorise [nom=EMPIRE, listeConcession=[Concession [nom=Chez WIWI, list=[Vehicule [marque=Toyota, couleur=bleue, modele=T1, prix=11340][cylindree 20], Vehicule [marque=Renault, couleur=grise, modele=Clio, prix=5000][type citadine]], tresorerie=0, prix=0]], tresorerie=66897]
